@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "strict": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
